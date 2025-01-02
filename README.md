@@ -30,9 +30,9 @@ Welcome to the *Video Production and Editing Training Program*. This foundationa
 
 | Field                   | Details                                                                 |
 |-------------------------|-------------------------------------------------------------------------|
-| *Name:*               | Shadhat Hossan                                                         |
-| *Mobile No:*          | +8801841589939                                                            |
-| *Email ID:*           | mdshadhat111@gmail.com                                                 |
+| *Name:*               | Md.Yeasin Shaon                                                         |
+| *Mobile No:*          | +8801848148297                                                            |
+| *Email ID:*           | Shaon228@gmail.com                                                 |
 | *LinkedIn Profile:*   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/shadhat-hossan-undefined-795294334/) |
 | *GitHub Profile:*     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/shadhathossan) |
 | **Shutterstock Profile:**| ![Shutterstock](https://img.shields.io/badge/Shutterstock-Contribute-red) [Explore Shutterstock Contributions](https://www.shutterstock.com/g/Abrar44) |
