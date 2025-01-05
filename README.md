@@ -33,11 +33,11 @@ Welcome to the *Video Production and Editing Training Program*. This foundationa
 | *Name:*               | Md.Yeasin Shaon                                                         |
 | *Mobile No:*          | +8801848148297                                                            |
 | *Email ID:*           | Shaon228@gmail.com                                                 |
-| *LinkedIn Profile:*   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/shadhat-hossan-undefined-795294334/) |
-| *GitHub Profile:*     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/shadhathossan) |
-| **Shutterstock Profile:**| ![Shutterstock](https://img.shields.io/badge/Shutterstock-Contribute-red) [Explore Shutterstock Contributions](https://www.shutterstock.com/g/Abrar44) |
-| *Freelancing Profile:*| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.fiverr.com/shadhat_hossan) |
-| *Project Google Drive Link:* | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files](https://drive.google.com/drive/folders/1_ZW4AJ88uGgb3yi3v0hWF4Dr2qsvLpm0?) |
+| *LinkedIn Profile:*   | ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) [Connect on LinkedIn](https://www.linkedin.com/in/yeasin01) |
+| *GitHub Profile:*     | ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github) [Visit GitHub](https://github.com/Yeasin-Shaon) |
+| **Shutterstock Profile:**| ![Shutterstock](https://img.shields.io/badge/Shutterstock-Contribute-red) [Explore Shutterstock Contributions](https://www.shutterstock.com/g/Yeasin_shaon) |
+| *Freelancing Profile:*| ![Freelancing](https://img.shields.io/badge/Freelancing-Portfolio-green) [Check Freelancing Portfolio](https://www.fiverr.com/yeasin_shaon) |
+| *Project Google Drive Link:* | ![Google Drive](https://img.shields.io/badge/Google%20Drive-Projects-yellowgreen?logo=google-drive) [Access Project Files](https://drive.google.com/drive/folders/1Mu_FdckLk_fMf_hTNO387ISnSNpIDBDx?usp=drive_link) |
 
 ---
 
